@@ -36,9 +36,13 @@ Within 11 hours the VM logged more then 750 failed SSH login attempts from exter
 addresses — a reminder of why exposed management ports need restricting.
 
 ## Cost control
-Free-tier resources only, a ZAR 20 monthly budget with alerts at 50/80/100%,
+Free-tier resources only, a $20 monthly budget with alerts at 50/80/100%,
 subscription spending limit left enabled, and full teardown after testing.
 Total spend: $2,98\R48,38.
+| | |
+|---|---|
+| Cost management + billing | ![<img width="1319" height="571" alt="Screenshot 2026-09-18 155329" src="https://github.com/user-attachments/assets/b86ff556-6a17-4c51-b6cf-a52940ef1b9f" /> <img width="1363" height="647" alt="Screenshot 2026-09-20 160141" src="https://github.com/user-attachments/assets/94afccad-f5a0-4193-9d4f-680bf2f3b1ee" /> | 
+](screenshots/costs.png) |
 
 ## Screenshots
 | | |
