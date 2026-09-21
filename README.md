@@ -27,7 +27,8 @@ Generated synthetic CPU load with `stress-ng` and confirmed the alert fired
 and the notification email was delivered within 10 minutes.
 | | |
 |---|---|
-| Testing `stress-ng`| ![<img width="1365" height="718" alt="Screenshot 2026-09-18 204421" src="https://github.com/user-attachments/assets/54c18eeb-0cf0-46c0-b05d-91b7d2d14fc9" /> ](screenshots/Testing`stress-ng`.png) |
+| Testing `stress-ng`| ![<img width="1365" height="718" alt="Screenshot 2026-09-18 204421" src="https://github.com/user-attachments/assets/1ff58c47-104d-4bfd-9e15-c4ab80a3be7a" />
+](screenshots/Testing`stress-ng`.png) |
 
 ## What I found
 Within 11 hours the VM logged more then 750 failed SSH login attempts from external IP
@@ -42,11 +43,14 @@ Total spend: $2,98\R48,38.
 | | |
 |---|---|
 | Log Analytics query results | ![<img width="1365" height="640" alt="Screenshot 2026-09-19 152731" src="https://github.com/user-attachments/assets/15f3583f-0b95-44e8-a8fa-b4bf3ebce447" />
-<img width="1365" height="696" alt="Screenshot 2026-09-19 110847" src="https://github.com/user-attachments/assets/523640be-b43c-4971-ac99-0fa7ede1df4d" />](screenshots/kql-cpu.png) |
+<img width="1365" height="696" alt="Screenshot 2026-09-19 110847" src="https://github.com/user-attachments/assets/523640be-b43c-4971-ac99-0fa7ede1df4d" />
+](screenshots/kql-cpu.png) |
 | Alert email received | ![<img width="1360" height="639" alt="Screenshot 2026-09-19 140809" src="https://github.com/user-attachments/assets/7d1d9277-9719-4016-8c0a-332f24e40a0d" />
-<img width="1365" height="640" alt="Screenshot 2026-09-19 140825" src="https://github.com/user-attachments/assets/938a5fed-530b-419a-8a1f-543d74bc3a78" />](screenshots/alert-email.png) |
+<img width="1365" height="640" alt="Screenshot 2026-09-19 140825" src="https://github.com/user-attachments/assets/938a5fed-530b-419a-8a1f-543d74bc3a78" />
+](screenshots/alert-email.png) |
 | Dashboard | ![<img width="1326" height="694" alt="Screenshot 2026-09-18 185733" src="https://github.com/user-attachments/assets/63b73b2a-bdbd-4d2e-8fd2-1853c86732f6" />
-<img width="1355" height="649" alt="Screenshot 2026-09-19 150921" src="https://github.com/user-attachments/assets/8a6a5d7e-a045-4817-b396-35553be5b9cd" />](screenshots/dashboard.png) |
+<img width="1355" height="649" alt="Screenshot 2026-09-19 150921" src="https://github.com/user-attachments/assets/8a6a5d7e-a045-4817-b396-35553be5b9cd" />
+](screenshots/dashboard.png) |
 ## What I'd do differently
 - Restrict the NSG rule for SSH to my own IP instead of Any
 - Use a log search alert on failed logins (small monthly cost per rule)
