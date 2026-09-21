@@ -49,6 +49,7 @@ Total spend: $2,98\R48,38.
 ](screenshots/alert-email.png) |
 
 | Dashboard | ![<img width="1326" height="694" alt="Screenshot 2026-09-18 185733" src="https://github.com/user-attachments/assets/63b73b2a-bdbd-4d2e-8fd2-1853c86732f6" /> <img width="1355" height="649" alt="Screenshot 2026-09-19 150921" src="https://github.com/user-attachments/assets/8a6a5d7e-a045-4817-b396-35553be5b9cd" /> |
+
 ](screenshots/dashboard.png) 
 
 ## What I'd do differently
