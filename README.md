@@ -38,7 +38,7 @@ Total spend: $2,98\R48,38.
 ## Screenshots
 | | |
 |---|---|
-| Log Analytics query results | ![<img width="1365" height="640" alt="Screenshot 2026-09-19 152731" src="https://github.com/user-attachments/assets/15f3583f-0b95-44e8-a8fa-b4bf3ebce447" />
+| Log Analytics query results | ![<img width="1365" height="640" alt="Screenshot 2026-09-19 152731" src="https://github.com/user-attachments/assets/15f3583f-0b95-44e8-a8fa-b4bf3ebce447" /> <img width="1365" height="696" alt="Screenshot 2026-09-19 110847" src="https://github.com/user-attachments/assets/523640be-b43c-4971-ac99-0fa7ede1df4d" />
 ](screenshots/kql-cpu.png) |
 | Alert email received | ![](screenshots/alert-email.png) |
 | Dashboard | ![](screenshots/dashboard.png) |
