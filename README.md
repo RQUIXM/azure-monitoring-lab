@@ -27,7 +27,7 @@ Generated synthetic CPU load with `stress-ng` and confirmed the alert fired
 and the notification email was delivered within 10 minutes.
 | | |
 |---|---|
-| Testing `stress-ng`| ![<img width="1365" height="718" alt="Screenshot 2026-09-18 204421" src="https://github.com/user-attachments/assets/6210f671-ccff-40eb-b78c-446e35392082" /><img width="1361" height="712" alt="Screenshot 2026-09-19 140909" src="https://github.com/user-attachments/assets/df41b5fc-4ba0-4942-bb3d-c8c87d10e056" />](screenshots/Testing`stress-ng`.png)|
+| Testing `stress-ng`| ![<img width="1365" height="718" alt="Screenshot 2026-09-18 204421" src="https://github.com/user-attachments/assets/6210f671-ccff-40eb-b78c-446e35392082" /><img width="1361" height="712" alt="Screenshot 2026-09-19 140909" src="https://github.com/user-attachments/assets/df41b5fc-4ba0-4942-bb3d-c8c87d10e056"/>](screenshots/Testing`stress-ng`.png)|
 
 ## What I found
 Within 11 hours the VM logged more then 750 failed SSH login attempts from external IP
