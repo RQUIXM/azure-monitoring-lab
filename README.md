@@ -48,9 +48,9 @@ Total spend: $2,98\R48,38.
 | Alert email received | ![<img width="1360" height="639" alt="Screenshot 2026-09-19 140809" src="https://github.com/user-attachments/assets/7d1d9277-9719-4016-8c0a-332f24e40a0d" /> <img width="1365" height="640" alt="Screenshot 2026-09-19 140825" src="https://github.com/user-attachments/assets/938a5fed-530b-419a-8a1f-543d74bc3a78" /> |
 ](screenshots/alert-email.png) |
 
-| Dashboard | ![<img width="1326" height="694" alt="Screenshot 2026-09-18 185733" src="https://github.com/user-attachments/assets/63b73b2a-bdbd-4d2e-8fd2-1853c86732f6" /> <img width="1355" height="649" alt="Screenshot 2026-09-19 150921" src="https://github.com/user-attachments/assets/8a6a5d7e-a045-4817-b396-35553be5b9cd" /> |
+| Dashboard | ![<img width="1326" height="694" alt="Screenshot 2026-09-18 185733" src="https://github.com/user-attachments/assets/63b73b2a-bdbd-4d2e-8fd2-1853c86732f6" /> <img width="1355" height="649" alt="Screenshot 2026-09-19 150921" src="https://github.com/user-attachments/assets/8a6a5d7e-a045-4817-b396-35553be5b9cd" />|
 
-](screenshots/dashboard.png) 
+](screenshots/dashboard.png) |
 
 ## What I'd do differently
 - Restrict the NSG rule for SSH to my own IP instead of Any
